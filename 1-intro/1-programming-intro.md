@@ -115,4 +115,7 @@ What is an IDE? IDE stands for "Integrated Development Environment" and it's jus
 
 The thing about IDE's is that there exists a ton of them. Some free, some paid, some only supporting a single programming language, heavy ones with tons of tools, light ones with support for extensions. I personally prefer the latter, and for the remainder of this guide-series i will recommend that you download and install [Visual Studio Code](https://code.visualstudio.com/). I use this for everything both comercially and privately. It's free, open source, well-supported (created by Microsoft) and very extensible and configurable.
 
+Next up: [1.1 Getting started with JavaScript](1-1-getting-started-js.md)
 
+---
+> [back to frontpage](../README.md) 

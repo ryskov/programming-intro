@@ -1,4 +1,5 @@
 # Getting Started with JavaScript
+>[back to frontpage](../README.md)
 
 In this article i will walk you through the basics needed to write execute JavaScript on your computer. It is recommended that you read the [previous article](1-programming-intro.md) if you haven't already.
 
@@ -88,3 +89,13 @@ If you did everything correctly, you should now see the expected output in your 
 > `My name is Robert Marley but you can just call me Lil Bob`
 
 Congratulations! It might seem useless (and it is) but if you made it this far we are actually ready to begin the journey. We passed the bumps of setting everything up and we are live and running with all the required tools and some basic usage of the terminal. 
+
+For now until i publish more i would poke around with the code you just made. Change the texts, create more variables and most importantly: make sure you understand every line of the program. Google is your friend if something is not obvious.
+
+When you get tired of that then [this seems to be a good place to start](https://www.digitalocean.com/community/tutorials/how-to-write-and-run-your-first-program-in-node-js). If you decide to follow that guide i have some notes you should read beforehand:
+- The author mentions some specific version of NodeJS to install - dont worry about this, the one you have will work just fine.
+- When ever theres a text block in the guide starting with `$` it is simply to show that its a command to be executed in a terminal.
+- The author wants you to use a program called `nano` to create and edit your files. Don't do that. Create them with `touch` and edit them in VS Code :)
+
+---
+> [back to frontpage](../README.md) 
