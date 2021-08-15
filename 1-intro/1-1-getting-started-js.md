@@ -34,7 +34,7 @@ Now we are ready! Since you obviously read the [previous article](1-programming-
 Fire up a terminal and lets jump right into it:
 
 `cd ~/Documents/programming`
-> You know this command from before, but i just want to point out that `~/` has a special meaning when used in a path: its the logged in users 'home directory'. Now you know. Don't stress about it.
+> You know this command from before, but i just want to point out that `~/` has a special meaning when used in a path: its the logged-in users 'home directory'. Now you know. Don't stress about it.
 
 Lets create a new folder in here for this small demo. We can call it `first-js-project`
 
