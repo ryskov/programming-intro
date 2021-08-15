@@ -1,5 +1,7 @@
-# Intro
-Welcome! This short introduction will help you understand the most basic concepts required to get started programming.
+# Programming Introduction
+>[back to frontpage](../README.md)
+
+Welcome! This introduction will help you understand the most basic concepts required to get started programming.
 
 ## Table of contents
 - [1 Programming](#1-programming)
@@ -109,8 +111,8 @@ There's absolutely no reason to be scared about learning to use a terminal. If y
 Stop for a moment now and look at your terminal and all the commands you just executed. Functionally it's all pretty familiar stuff. Creating files/folders, renaming them, deleting them. This is the point. A terminal is not magical, its a textual way to control a computer. Even if you think it's useless at this point, it will become **very** useful when programming and you will find out why down the road.
 
 ### 2.2 IDE
-What is an IDE? IDE stands for "Integrated Development Environment" and it's just a overly fancy word for "text editor with colors, file management and useful tools". You do not actually need one but i would **not** advise you to not use one. Even if we are only going to be using simple features (managing and writing files) they provide a ton of help by simply coloring your code and helping you 'space it out' to make it way cleaner to comprehend when writing and reading it. 
+What is an IDE? IDE stands for "Integrated Development Environment" and it's just a overly fancy word for "text editor with colors, file management and useful tools". You do not actually need one but i would **heavily** advise you to use one. Even if we are only going to be using simple features (managing and writing files) they provide a ton of help by simply coloring your code and helping you 'space it out' to make it way cleaner to comprehend when writing and reading it. 
 
-The thing about IDE's is that there exists a ton of them. Some free, some paid, some only supporting writing a single language, heavy ones with tons of tools, light ones with support for extensions. I personally prefer the latter, and for the remainder of this guide-series i will recommend that you download and install [Visual Studio Code](https://code.visualstudio.com/). I use this for everything both comercially and privately. It's free, open source, well-supported (created by Microsoft) and very extensible when specific needs arises.
+The thing about IDE's is that there exists a ton of them. Some free, some paid, some only supporting a single programming language, heavy ones with tons of tools, light ones with support for extensions. I personally prefer the latter, and for the remainder of this guide-series i will recommend that you download and install [Visual Studio Code](https://code.visualstudio.com/). I use this for everything both comercially and privately. It's free, open source, well-supported (created by Microsoft) and very extensible and configurable.
 
 
