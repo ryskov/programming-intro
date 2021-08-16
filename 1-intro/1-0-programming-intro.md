@@ -39,21 +39,21 @@ Lets take a look at some actual code. I have written the same code in two differ
 
 **JavaScript**
 ```javascript
-let name = 'Robert'
+let firstName = 'Robert'
 let lastName = 'Marley'
 let nickName = 'Lil Bob'
 
-let fullName = name + ' ' + lastName
+let fullName = firstName + ' ' + lastName
 
 console.log('My name is ' + fullName + ' but you can just call me ' + nickName)
 ```
 **Bash**
 ```bash
-name="Robert"
+first_name="Robert"
 last_name="Marley"
 nick_name="Lil Bob"
 
-full_name="$name $last_name"
+full_name="$first_name $last_name"
 
 echo "My name is $full_name but you can just call me $nick_name"
 ```

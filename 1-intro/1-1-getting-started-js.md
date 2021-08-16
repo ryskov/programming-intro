@@ -63,11 +63,11 @@ After opening our project folder in VS Code we are ready to begin! But before we
 Now try to click on `app.js`. An empty text editor should show up, taking most of your screen. This is where the magic happens. Now write (you can copy paste but you will feel cooler if you write it out) the following to the file:
 
 ```javascript
-let name = 'Robert'
+let firstName = 'Robert'
 let lastName = 'Marley'
 let nickName = 'Lil Bob'
 
-let fullName = name + ' ' + lastName
+let fullName = firstName + ' ' + lastName
 
 console.log('My name is ' + fullName + ' but you can just call me ' + nickName)
 ```
