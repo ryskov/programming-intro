@@ -1,0 +1,22 @@
+# Terminal Cheat Sheet
+
+- `cd [PATH]`
+  - Navigates your terminal into another folder
+  - Example: `cd ~/Documents/programming`
+- `cat [FILENAME]`
+  - Outputs (displays) the contents of a file
+  - Example: `cat app.js`
+- `pwd`
+  - Displays the folder that you are currently navigated to
+- `touch [FILENAME]`
+  - Creates and empty file with a given name
+  - Example: `touch app.js`
+- `node [JS_FILE]`
+  - Executes JavaScript
+  - Example: `node app.js`
+- `ls [OPTIONAL_PATH]`
+  - Lists the contents of a folder. If no path is given, it will list the contents of the folder currently navigated to
+  - Example: `ls`, `ls ~/Documents`
+- `rm [FILENAME]`
+  - Removes a file or folder
+  - Example: `rm test.txt`
