@@ -50,7 +50,7 @@ Cool, so now we have an empty folder, what now? Well lets create our first JavaS
 
 `touch app.js`
 
-Nice! To verify that it was created you can use the following command to list the contents of the folder that your terminal are in:
+Nice! To verify that it was created you can use the following command to list the contents of the folder that your terminal is in:
 
 `ls`
 
