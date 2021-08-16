@@ -61,7 +61,7 @@ Output:
 
 `> My name is Robert Marley but you can just call me Lil Bob`
 
-I don't believe the logic in this program requires too much explanation but it might be worth pointing out some of the syntatic differences that sets them apart. Lets also touch on some conventions for both of those languages.
+I don't believe the logic in this program requires too much explanation but it might be worth pointing out some of the syntactic differences that sets them apart. Lets also touch on some conventions for both of those languages.
 
 - **JavaScript**
   - We use the `let` keyword to define a *variable*. This is a syntax thing related to the language.
