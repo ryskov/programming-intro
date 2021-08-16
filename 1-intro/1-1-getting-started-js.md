@@ -1,7 +1,7 @@
 # Getting Started with JavaScript
 >[back to frontpage](../README.md)
 
-In this article i will walk you through the basics needed to write and execute JavaScript on your computer. It is recommended that you read the [previous article](1-programming-intro.md) if you haven't already.
+In this article i will walk you through the basics needed to write and execute JavaScript on your computer. It is recommended that you read the [previous article](1-0-programming-intro.md) if you haven't already.
 
 Lets get some things straight. We will be learning and writing [JavaScript](https://en.wikipedia.org/wiki/JavaScript) throughout this series because it is a versatile language with a very common syntax. Nowadays it is used for both frontend and backend programming and learning it will certainly not do any harm. If you can get used to writing JavaScript (sometimes just called JS) you will have an easy time quickly learning the syntax of a ton of other languages.
 
@@ -25,12 +25,12 @@ You already have this because you are not a slacker and read the previous articl
 If you are using a Mac you already have this AS YOU ALREADY KNOW FROM THE PREVIOUS ARTICLE.
 
 ### 1.3 NodeJS 
-This one is new! [NodeJS](https://nodejs.org/) is the [interpreter](1-programming-intro.md#12-how-does-a-computer-understand-and-execute-code) for JavaScript. Yes, you are correct, JavaScript is **not** a compiled language and it requires this to execute on your computer. Just visit [this download page](https://nodejs.org/) and download and install the `LTS` version on the frontpage.
+This one is new! [NodeJS](https://nodejs.org/) is the [interpreter](1-0-programming-intro.md#12-how-does-a-computer-understand-and-execute-code) for JavaScript. Yes, you are correct, JavaScript is **not** a compiled language and it requires this to execute on your computer. Just visit [this download page](https://nodejs.org/) and download and install the `LTS` version on the frontpage.
 
 Well, that is actually everything we need to get started. 
 
 ## 2 Writing code
-Now we are ready! Since you obviously read the [previous article](1-programming-intro.md) i assume you have already created a `programming` folder inside of your Documents folder. Well, we might as well use that as our base for this series. Here we will create our projects and all of our files will be contained in this folder.
+Now we are ready! Since you obviously read the [previous article](1-0-programming-intro.md) i assume you have already created a `programming` folder inside of your Documents folder. Well, we might as well use that as our base for this series. Here we will create our projects and all of our files will be contained in this folder.
 
 Fire up a terminal and lets jump right into it:
 

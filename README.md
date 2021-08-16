@@ -4,7 +4,7 @@ Welcome! This is the frontpage of my series on programming. It is meant to be co
 
 ## Guides
 
-- [1 Programming Introduction](1-intro/1-programming-intro.md)
+- [1 Programming Introduction](1-intro/1-0-programming-intro.md)
   - [1.1 Getting started with JavaScript](1-intro/1-1-getting-started-js.md)
 
 
